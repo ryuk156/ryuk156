@@ -31,7 +31,7 @@ These are my social profile links/icons
 
 - 🔭 I’m currently working on  **[LoopHoleTech](https://www.linkedin.com/company/loopholetech/)**
 - 📫 How to reach me (use one of the following ways):
-   1. **[twitter @hedythedev](https://twitter.com/Yash15601) (recommended)**
+   1. **[twitter @Yash15601](https://twitter.com/Yash15601) (recommended)**
    2. **[linkedin](https://www.linkedin.com/in/yash-patel-22546a191) (if you don't have twitter)**
    3. **[email](mailto:yashp2928@gmail.com) (not recommended)**
 - 
