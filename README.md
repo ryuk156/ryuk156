@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm Hedy [banner]" />
+
 <!--
 How did I make the fabulous banner?
 Well, I did it using canva.com, nothing fancy completely free :)
