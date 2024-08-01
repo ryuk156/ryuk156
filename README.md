@@ -1,5 +1,4 @@
 
-## Sup everyone! 👋, I‘m Yash Patel
 
 ## 👋 Hi there! I'm Yash Patel, a Software Engineer with 3 years of diverse experience in software development and IT support. 
 
