@@ -1,7 +1,7 @@
 
 ## Sup everyone! 👋, I‘m Yash Patel
 
-##### 👋 Hi there! I'm Yash Patel, a Software Engineer with 3 years of diverse experience in software development and IT support. 
+## 👋 Hi there! I'm Yash Patel, a Software Engineer with 3 years of diverse experience in software development and IT support. 
 
 #### My journey includes designing and developing robust applications at Crescibit Technology, where I played a pivotal role in enhancing user experiences across web and mobile platforms. Additionally, I contributed to the Terasology Foundation through Google Summer of Code, improving CI/CD pipelines and enhancing UI/UX. 
 
